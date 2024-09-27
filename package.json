@@ -1,5 +1,5 @@
 {
-        "name": "AbdealiDodia",
+        "name": "Khuram Murad",
         "version": "1.0.0",
         "scripts": {
                 "start": "nodemon src/index.js",
