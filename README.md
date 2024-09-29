@@ -1,4 +1,4 @@
-# Node.js WebApp - Asalam-o-Alykum!!!
+# Node.js WebApp - that displayes "Asalam-o-Alykum!!!" on the web page.
 
 This is a simple Node.js web application that displays "Asalam-o-Alykum!!!" when accessed at `http://localhost:8000`. The application is containerized using Docker and can be easily run inside a Docker container.
 
